@@ -3,6 +3,10 @@ package com.mad.juc.thread.collection;
 import java.util.Iterator;
 import java.util.concurrent.CopyOnWriteArrayList;
 
+
+/**
+ * demo of weak consistency
+ */
 public class CopyOnWriteListTest {
 
     public static void main(String[] args) {
